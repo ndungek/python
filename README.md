@@ -1,2 +1,2 @@
 # python
-30 days challenges-HackerRank
+30 days challenge-HackerRank
